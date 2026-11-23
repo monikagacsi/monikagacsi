@@ -32,7 +32,7 @@ Hands-on experience with SQL (PostgreSQL, MySQL), Postman (REST API testing), Cy
 ---
 ### 💻 SoftEng Projects
 At _**Works-as-Implemented Corp**_, we firmly believe in **SaF (Software as Fun)**. Why shouldn't our apps make life easier *and* a little more whimsical? We think they can do both. 
-Our core values are curiosity, tidy commit messages. 
+Our core values are curiosity and and learning by building. 
 The only cookies we handle are at fika, though honestly we'd pick a _kanelbulle_ over any of them. 
 <!-- * **Portfolio:** [Your Portfolio Link](#) *(or remove this line until your site is live)* -->
 * **[Reflexicon](https://github.com/monikagacsi/reflexicon)** - Every coding course makes you check for palindromes, but nobody ever invites their neglected cousin, the semordnilap (a word that spells another word backwards). Reflexicon tells you whether your word is a palindrome, a semordnilap, or neither, and confirms the semordnilaps against a real dictionary. Built with **HTML, CSS, JavaScript**, and the **Free Dictionary API**.
